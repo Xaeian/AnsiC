@@ -4,7 +4,7 @@ Język **C** jest językiem kompilowanym, wszystkie pliki źródłowe `.c` oraz 
 
 ![dbg](assets/compile.png)
 
-Kurs programowania w języku **C**, fundament pod programowanie mikrokontrolerów i systemów wbudowanych. Kurs można realizować równolegle z nauką **AVR**, natomiast solidna znajomość C jest konieczna przed przejściem na bardziej zaawansowane platformy jak **STM32**. Niezależnie od docelowej platformy, czasem warto odpalić coś lokalnie na komputerze, bez sprzętu i z łatwiejszym debugowaniem.
+Język **C** to fundament pod programowanie mikrokontrolerów i systemów wbudowanych. Kurs można realizować równolegle z nauką **AVR**, natomiast solidna znajomość C jest konieczna przed przejściem na bardziej zaawansowane platformy jak **STM32**. Niezależnie od docelowej platformy, czasem warto odpalić coś lokalnie na komputerze, bez sprzętu i z łatwiejszym debugowaniem.
 
 ![dbg](assets/c-avr-stm.png)
 
