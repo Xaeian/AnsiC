@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "label": "build",
+      "command": "make",
+      "group": { "kind": "build", "isDefault": true }
+    },
+    {
+      "label": "run",
+      "command": "make run"
+    }
+  ],
+  "version": "2.0.0"
+}
