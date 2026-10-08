@@ -61,7 +61,7 @@ make --version
 Aby sklonować repozytorium, a tym samym utworzyć nowy projekt, wystarczy _(o ile mamy zainstalowanego [klienta Git](https://git-scm.com/download/win))_ wykonać następującą komendę `clone`:
 
 ```sh
-git clone https://github.com/Xaeian/C
+git clone https://github.com/Xaeian/AnsiC
 ```
 
 Kompilacja i uruchomienie programu odbywa się za pomocą narzędzia `make`:
